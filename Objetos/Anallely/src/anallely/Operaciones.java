@@ -9,6 +9,9 @@ package anallely;
  *
  * @author Usuario
  */
-public class Resta extends Operaciones{
-    
+public class Operaciones {
+    int numero;
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
 }

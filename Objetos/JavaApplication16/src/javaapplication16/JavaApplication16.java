@@ -3,12 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package anallely;
+package javaapplication16;
 
 /**
  *
  * @author Usuario
  */
-public class Resta extends Operaciones{
+public class JavaApplication16 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
     
 }

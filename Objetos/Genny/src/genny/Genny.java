@@ -3,12 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package anallely;
+package genny;
 
 /**
  *
  * @author Usuario
  */
-public class Resta extends Operaciones{
-    
+public class Genny {
+    public static void main(String[] args) {
+        Calculadora calc = new Calculadora(5,10);//Instanciando
+        calc.Suma();
+    }
 }

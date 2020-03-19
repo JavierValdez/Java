@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package anallely;
+package javaaplicaction1;
 
 /**
  *
  * @author Usuario
  */
-public class Resta extends Operaciones{
-    
+public class MiClase {
+    String mensaje="Hola";
+    int i= 0;
 }

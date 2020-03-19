@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package anallely;
+package martes1003;
 
 /**
  *
  * @author Usuario
  */
-public class Resta extends Operaciones{
+public class Ejercicio2 {
     
 }

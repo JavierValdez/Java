@@ -9,6 +9,6 @@ package anallely;
  *
  * @author Usuario
  */
-public class Resta extends Operaciones{
+public class Suma extends Operaciones{
     
 }

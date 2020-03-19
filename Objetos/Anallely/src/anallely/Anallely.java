@@ -9,6 +9,11 @@ package anallely;
  *
  * @author Usuario
  */
-public class Resta extends Operaciones{
+public class Anallely {
+
+    /**
+     * @param args the command line arguments
+     */
+    
     
 }

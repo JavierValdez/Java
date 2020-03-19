@@ -3,12 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package anallely;
+package javaaplicaction1;
 
 /**
  *
  * @author Usuario
  */
-public class Resta extends Operaciones{
-    
+public class MiNuevaClase extends MiClase {
+    public void Suma_a_i(int j){
+        i=i+(j/2);
+        System.out.println(mensaje);
+    }
 }
